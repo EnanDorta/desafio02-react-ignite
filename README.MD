@@ -27,6 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
+ Para rodar esse código em sua máquina, basta usar os comandos: 
+
+ - yarn 
+ - yarn server 
+ - yarn dev
+
  Esse projeto é um desafio da Rocketseat da trilha de ReactJs, onde o foco dele foi fazer a componentização da aplicação. Onde a aplicação vinha toda concentrada no componente App e foi dividida em Sidebar e Content, com isso foi revisado o conceito de elevação de estado, onde um componente Pai passa para os seus componentes filhos propriedades para que eles possam funcionar de forma "independente".
 - - -
 
