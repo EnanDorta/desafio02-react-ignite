@@ -17,8 +17,6 @@ interface GenreResponseProps {
 
 export function App() {
   const [selectedGenreId, setSelectedGenreId] = useState(1);
-
-  
   const [selectedGenre, setSelectedGenre] = useState<GenreResponseProps>({} as GenreResponseProps);
 
   useEffect(() => {
